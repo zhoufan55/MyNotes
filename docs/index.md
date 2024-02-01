@@ -1,4 +1,4 @@
-??# Welcome to MyNotes
+# Welcome to MyNotes
 
 ## 信息系统项目管理师
 
